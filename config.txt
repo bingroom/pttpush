@@ -1,0 +1,8 @@
+{
+  "sample_file": "select_pushes1000_1.txt", 
+  "TEST_SIZE": 0.33, 
+  "dir_path": "./", 
+  "temp_path": "./temp/",
+  "sample_dir": "./visualized/",
+  "result_dir": "./cv_result/"
+}
